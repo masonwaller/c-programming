@@ -1,2 +1,2 @@
 # c-programming
-Working on my C skills
+bad setup for c programming... made a new repository
